@@ -8,7 +8,6 @@ This project is a simple React application that allows you to manage a list of u
 
 - Add new users with their username and age
 - Display the list of users with their information
-- Clear the entire list with one click
 
 ## Technologies
 
